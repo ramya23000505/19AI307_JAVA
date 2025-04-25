@@ -5,27 +5,35 @@ To create a class named Distance that adds two distances (in feet and inches) us
 
 ## ALGORITHM :
 1. Define the Class
+ 
 Create a public class named Distance.
 
-2. Declare Variables
+3. Declare Variables
+ 
 Inside the class, declare double variables: feet, inches, sum1, and sum2 to store input and results.
 
-3. Create Objects
+5. Create Objects
+
 In the main method, create three Distance objects: obj1, obj2, and obj3.
 
-4. Assign Values
+7. Assign Values
+   
 Assign 20.5 feet and 5.2 inches to obj1; assign 13.5 feet and 3.2 inches to obj2.
 
-5. Add Feet Values
+9. Add Feet Values
+    
 Add obj1.feet and obj2.feet and store the result in obj3.sum1.
 
-6. Add Inches Values
+11. Add Inches Values
+    
 Add obj1.inches and obj2.inches and store the result in obj3.sum2.
 
-7. Display the Result
+13. Display the Result
+    
 Print the total distance in the format: “Total Distance is X feet and Y inches”.
 
-8. End Program
+14. End Program
+    
 The program ends after output is displayed.
 
 ## PROGRAM:
