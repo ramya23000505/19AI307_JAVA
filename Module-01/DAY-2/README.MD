@@ -4,6 +4,7 @@
 To write a Java program in a class named Demo that divides 3210 by 3, finds the modulus of the quotient with 6, multiplies the result by 10, and displays the final value.
 
 ## ALGORITHM :
+
 1. Start the program.
 
 2. Declare an integer variable number and initialize it to 3210.
