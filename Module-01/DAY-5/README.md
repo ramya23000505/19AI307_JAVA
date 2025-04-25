@@ -28,8 +28,8 @@ To write a Java program that takes a number from the user (between 1 and 7) and 
  ```
 /*
 Program to implement a Static Variable using Java
-Developed by: 
-RegisterNumber:  
+Developed by: RAMYA R
+RegisterNumber:  212223230169
 */
 ```
 
