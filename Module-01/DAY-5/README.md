@@ -1,20 +1,26 @@
 # Ex.No:1(E)  STATIC VARIABLE
 
 ## AIM:
-To write a Java program to print student details (name and age), where age is the same for all students. Use a static variable to represent the age and demonstrate its use in accessing a shared value across all class objects
+To write a Java program that takes a number from the user (between 1 and 7) and displays the corresponding name of the weekday.
 
 ## ALGORITHM :
 1.	Start the program.
-2.	Create a class named Student.
-3.	Declare a static variable age in the Student class.
-4.	Declare an instance variable name.
-5.	Create a constructor to initialize the student's name.
-6.	Define a method displayDetails() to print the student's name and age.
-7.	In the main method:
-I.	Assign a value to the static variable age.
-II.	Create multiple Student objects with different names.
-III.	Call the displayDetails() method for each student.
-8.	End the program.
+
+2. Import the necessary package java.util.Scanner to read user input.
+
+3. Define a class named Weekday.
+
+4. Implement the main() method as the entry point of the program.
+
+5. Create an instance of the Scanner class named sc to read user input.
+
+6. Prompt the user to enter an integer between 1 and 7 using System.out.print().
+
+7. Read the input number using sc.nextInt().
+
+8. Use a switch-case statement to match the number and print the corresponding weekday.
+
+9. End the program.
 
 
 
@@ -29,16 +35,34 @@ RegisterNumber:
 
 ## Sourcecode.java:
 
-
-
-
-
-
+```
+import java.util.*;
+public class vowel
+{
+    public static void main(String argv[])
+    {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        switch(n)
+        {
+            case 1: System.out.println("Monday"); break;
+            case 2: System.out.println("Tuesday"); break;
+            case 3: System.out.println("Wednesday"); break;
+            case 4: System.out.println("Thursday"); break;
+            case 5: System.out.println("Friday"); break;
+            case 6: System.out.println("Saturday"); break;
+            case 7: System.out.println("Sunday"); break;
+            default: System.out.println("Invalid day range"); break;
+            
+        }
+    }
+}
+```
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/d120539f-bc6b-489b-922a-e837d1edb23a)
 
 
 
 ## RESULT:
-Thus, the Java program for the concept of using a static variable for shared data was correctly implemented and verified successfully. 
-
+Thus, the program successfully takes a number from the user and prints the corresponding name of the weekday.
