@@ -6,21 +6,21 @@ To write a Java program that takes three numbers from the user and prints the gr
 ## ALGORITHM :
 1.Start the program.
 
-Import the necessary package java.util.Scanner for taking input from the user.
+2. Import the necessary package java.util.Scanner for taking input from the user.
 
-Define a class named GreatestNumber.
+3. Define a class named GreatestNumber.
 
-Implement the main() method as the entry point of the program.
+4. Implement the main() method as the entry point of the program.
 
-Create an instance of the Scanner class named sc to read user input.
+5. Create an instance of the Scanner class named sc to read user input.
 
-Read three numbers num1, num2, and num3 from the user using sc.nextInt().
+6. Read three numbers num1, num2, and num3 from the user using sc.nextInt().
 
-Compare the three numbers to find the greatest number using conditional statements (if, else if, else).
+7. Compare the three numbers to find the greatest number using conditional statements (if, else if, else).
 
-Print the greatest number.
+8. Print the greatest number.
 
-End the program.
+9. End the program.
 
 
 ## PROGRAM:
