@@ -53,10 +53,10 @@ public class Demo{
 
 
 ## OUTPUT:
-|-----------|-----|
-| EXCEPCTED | GOT |
-|-----------|-----|
-|     20    |  20 |
-|-----------|-----|
+
+|   | EXCEPCTED | GOT |
+|---|-----------|-----|
+|   |     20    |  20 |
+
 ## RESULT:
 Thus, the program successfully divided 3210 by 3, took modulus of the quotient with 6, multiplied the result by 10, and displayed the final result using the class named 'Demo'.
