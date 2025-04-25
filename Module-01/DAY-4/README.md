@@ -12,6 +12,7 @@ To write a Java program that calculates the area of a trapezium using an instanc
 6. Calculate the area using the formula: Area = (1/2) * h * (b1 + b2).
 7. Return the calculated area from the method.
 8. In the main method, create an object of the Area class.
+
 9.Call the calculateArea() method using the created object and print the result.
 10. End
 
