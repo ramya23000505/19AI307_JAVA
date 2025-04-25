@@ -55,7 +55,8 @@ public class Distance
 
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/4a559a9d-19c7-4cd2-991b-80308acd671b)
+![image](https://github.com/user-attachments/assets/8fdd7ded-7494-4cb6-9a75-df6383a7fd24)
+
 
 ## RESULT:
-Thus, the class named 'Student' with String variable 'name' and String variable 'address' was created successfully.
+Thus, the class named 'Distance' was created successfully to add two distances in inch-feet using a third object.
