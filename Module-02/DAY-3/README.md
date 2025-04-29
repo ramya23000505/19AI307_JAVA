@@ -50,14 +50,4 @@ public class ArrayExample
 
 
 ## RESULT:
-Thus, the java program to read 3 values in array and display the array elements using single dimensional array and standard method was executed successfully (int i = 0; i < arr.length; i++) 
-        {
-            System.out.println(arr[i]);
-        }
-    }
-
-    public static void main(String[] args) 
-    {
-        Scanner scanner = new Scanner(System.in);
-        int[] arr = new int[3];
-.
+Thus, the java program to read 3 values in array and display the array elements using single dimensional array and standard method was executed successfully.
