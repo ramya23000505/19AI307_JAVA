@@ -57,3 +57,5 @@ public class SumOfDigits
 
 
 ## RESULT:
+
+Thus the java program for SumOfDigits using static and method has been executed successfully.
