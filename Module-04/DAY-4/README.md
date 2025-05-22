@@ -7,7 +7,6 @@ To create a Java program for below situation, Student object contains member 'St
  1.  Start
 
   2.  Define class Subject:
-
     Declare four String variables: subject1, subject2, subject3, subject4.
 
     Define method dispSub(String s1, String s2, String s3, String s4):
